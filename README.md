@@ -1,4 +1,4 @@
-��#� �o�r�e�l�k�o�s�
+# orelkos
 Привет, друзья!
 Меня зовут <b>Олег</b>.
 Я искренне люблю веб-разработку, активно изучаю новые стандарты, а в свободное время стараюсь уделять изучению чего-то нового в сфере своей деятельности.
@@ -15,4 +15,5 @@
 <h3>Мои контактные данные:</h3>
 <li>Почта: <a href="mailto:aleh.antukh@gmail.com">website@azraelgf.ru</a></li>
 <li>Телеграм: <a href="https://t.me/azraelgf" target="_blank">@azraelgf</a></li>
-<li><a href="https://join.skype.com/invite/bJfs8iKJdib4" target="_blank">karleone_gf</a></li>
+<li>WhatsApp: <a href="https://wa.me/375298977987" target="_blank">+375298977987</a></li>
+<li>Skype: <a href="https://join.skype.com/invite/bJfs8iKJdib4" target="_blank">karleone_gf</a></li
